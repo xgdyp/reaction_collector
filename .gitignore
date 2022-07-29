@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# reaction collector ignore
+env.ini
+temp*
+*.log
+*.json
