@@ -133,3 +133,5 @@ env.ini
 temp*
 *.log
 *.json
+
+#other gitignore
